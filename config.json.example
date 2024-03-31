@@ -1,0 +1,11 @@
+{
+    "<HOST NAME>": {
+        "fields": [
+            {
+                "key": "<FIELD NAME>",
+                "contains": <PARTIAL VALUE>
+            }
+        ],
+        "text": <EXPECTED TEXT>
+    }
+}
